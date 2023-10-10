@@ -1,0 +1,6 @@
+*.o
+pico/server
+pico/*.db
+pico/.gdb_history
+.DS_Store
+.vscode
